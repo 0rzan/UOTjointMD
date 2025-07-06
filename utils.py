@@ -563,7 +563,6 @@ class UtilsSparse:
         the probability simplex constraints.
 
         Parameters:
-            s_list (List): List of component spectra
             eta_G (float): Learning rate for transport plan updates
             eta_p (float): Learning rate for mixing proportion updates
             max_iter (int): Maximum number of iterations
